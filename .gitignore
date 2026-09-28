@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.spec
+build/
+config.json
+*-backup.json
+*.log
+.build/
+dist/
+bin/
+SHA256SUMS.json
+.venv/
+.env
+.env.*

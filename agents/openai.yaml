@@ -1,0 +1,7 @@
+interface:
+  display_name: "iPhone 验证码"
+  short_description: "手机短信直达本地接收端，让模型等待和读取验证码，全程不占用剪贴板"
+  default_prompt: "使用 $iphone-otp 等待我的新短信验证码，并填写到当前正在登录的网站。"
+
+policy:
+  allow_implicit_invocation: true
